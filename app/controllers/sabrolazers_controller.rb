@@ -1,0 +1,2 @@
+class SabrolazersController < ApplicationController
+end
